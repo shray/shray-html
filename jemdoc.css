@@ -106,6 +106,10 @@ a:hover, .tooltip:hover {
 #layout-menu a:hover {
     text-decoration: none;
 }
+.link-style {
+    color: #027ca0; /* or #022b6d for the current link color */
+    cursor: default; /* Prevents pointer cursor */
+}
 
 div.menu-category {
     border-bottom: 1px solid gray;
